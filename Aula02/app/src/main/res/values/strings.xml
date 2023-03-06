@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula02</string>
+    <string name="hintNumber">Entre com um número</string>
+    <string name="lblButton">Calcule</string>
+</resources>
